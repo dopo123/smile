@@ -1,2 +1,2 @@
 # smile
-Smile
+Print a Smiley face
